@@ -1,0 +1,23 @@
+{
+  "name": "kebabcase-middleware-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthonny Quérouil",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonny/kebabcase-middleware-demo.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
+}
